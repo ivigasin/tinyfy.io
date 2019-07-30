@@ -1,0 +1,16 @@
+{
+  "name": "id-service",
+  "version": "1.0.0",
+  "description": "shared id-service",
+  "main": "app.js",
+  "scripts": {
+    "start": "node dist/app.js",
+    "build": ""
+  },
+  "author": "Igor Vigasin",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^10.12.2",
+    "express": "~4.17.1"
+  }
+}
